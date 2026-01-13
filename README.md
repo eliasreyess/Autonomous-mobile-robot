@@ -1,4 +1,4 @@
-# Autonomous Mobile Robot
+
 <p align ="center">
   <img src="assets/8.png" size="auto"><br>
   <em>Fig. 1 Robot asselbly.</em>
