@@ -34,6 +34,8 @@ In this setup, the battery powered an electrical bus that distributed a common v
 
 This project successfully integrated mechanical design, sensing, and embedded control to create an autonomous mobile robot capable of mapping its environment and responding to detected spills. Despite limitations in computing power and power management, the system operated reliably through careful hardware and control design.
 
+### For more information and files about this project, please visit the <a href="https://github.com/eliasreyess/Autonomous-mobile-robot">repository.</a>
+
 <p align="center">
   <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
     <img src="assets/download.svg" alt="back" width="32">
